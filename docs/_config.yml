@@ -23,7 +23,7 @@ email: me@seanland.ca
 description: >- # this means to ignore newlines until "baseurl:"
   A repository dedicated to resources for learning and building on Check Point services and APIs
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://cp-coding-and-api.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://seanland.github.io/cp-coding-and-api" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  seanland
 
