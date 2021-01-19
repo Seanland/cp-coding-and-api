@@ -27,7 +27,7 @@ url: "https://cp-coding-and-api.github.io" # the base hostname & protocol for yo
 # twitter_username: jekyllrb
 github_username:  seanland
 
-theme: just-the-docs
+remote_theme: seanland/just-the-docs
 
 footer_content: "Copyright &copy; Sean Clarke."
 
