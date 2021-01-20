@@ -1,11 +1,10 @@
 ---
 layout: page
-title: SmartConsole Extensions
+title: One Liners
 parent: Projects
-nav_order: 5
+nav_order: 1
 ---
-
-# SmartConsole Extensions
+# One Liners
 
 ## Under Construction.
 

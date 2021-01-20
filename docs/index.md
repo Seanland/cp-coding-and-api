@@ -1,14 +1,15 @@
 ---
 layout: default
-title: Getting Started
+title: Home
 nav_order: 1
 description: "A repository dedicated to resources for learning and building on Check Point services and APIs"
 permalink: /
 ---
 
 # Welcome
+{: .fs-9 }
 
-This is the initial commit to test github pages and deployment.  Thank you for your patience.  More to come soon!
+This is a repository dedicated to resources for learning and building on Check Point services and APIs.  This is a community driven file so please share where you [learn]({{ site.baseurl }}{% link learning/learning.md %}) and what you [build]({{ site.baseurl }}{% link projects/projects.md %})!
 {: .fs-6 .fw-300 }
 
 ## Under Construction.

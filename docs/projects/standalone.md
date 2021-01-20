@@ -2,7 +2,7 @@
 layout: page
 title: Standalone
 parent: Projects
-nav_order: 1
+nav_order: 2
 ---
 
 # Standalone
