@@ -37,7 +37,7 @@ plugins:
 # Aux links for the upper right navigation
 aux_links:
   "Contribute On GitHub":
-    - "//github.com/Seanland/cp-coding-and-api.github.io"
+    - "//github.com/Seanland/cp-coding-and-api"
 
 repository: "https://github.com/Seanland/cp-coding-and-api.github.io" # the github URL for your repo
 
