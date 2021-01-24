@@ -1,11 +1,4 @@
----
-layout: default
-title: Contribute
-nav_order: 6
----
-
 # Contribute
-<!-- {: .no_toc } -->
 
 ## Create an Issue
 

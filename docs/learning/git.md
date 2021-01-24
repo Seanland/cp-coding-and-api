@@ -16,5 +16,5 @@ Git is a distributed version-control system for tracking changes in any set of f
 ## Under Construction.
 
 If you would like to contribute, please do one of the following:
-- [Create an Issue on the repository](https://github.com/Seanland/cp-coding-and-api.github.io/issues)
-- Fork the [repository](https://github.com/Seanland/cp-coding-and-api.github.io) and submit a pull request
+- [Create an Issue on the repository](https://github.com/{{ site.github_username }}/cp-coding-and-api.github.io/issues)
+- Fork the [repository](https://github.com/{{ site.github_username }}/cp-coding-and-api.github.io) and submit a pull request

@@ -20,8 +20,18 @@ Call this a disclaimer.  Call it a warning.  Please, be conscious that all envir
 
 We are not trying to take credit for other people's work.  We are trying to share works that are freely available (unless otherwise specified) to the public to help with their learning and growth.  If content that is listed is not supposed to be public knowledge or is credited incorrectly, please notify the [repository owner](https://github.com/{{ site.github_username }}) immediately.
 
+## Request a project
+
+Have a need for a project?  Feel free to [open an issue](https://github.com/{{ site.github_username }}/cp-coding-and-api/issues) and/or [add the change yourself](https://github.com/{{ site.github_username }}/cp-coding-and-api/pulls).
+
+| Project Description | Requestor |
+| ------------------- | :-------: |
+| Sample Description.  We could really use more requests :) | [Seanland](https://github.com/Seanland) |
+
+Please provide a short description and a GitHub profile for contact.  If a project is close to an existing repository or the repository already exists, the pull request will be rejected or the issue will be closed.  
+
 ## Under Construction.
 
 If you would like to contribute, please do one of the following:
-- [Create an Issue on the repository](https://github.com/Seanland/cp-coding-and-api.github.io/issues)
-- Fork the [repository](https://github.com/Seanland/cp-coding-and-api.github.io) and submit a pull request
+- [Create an Issue on the repository](https://github.com/{{ site.github_username }}/cp-coding-and-api/issues)
+- Fork the [repository](https://github.com/{{ site.github_username }}/cp-coding-and-api) and submit a pull request
