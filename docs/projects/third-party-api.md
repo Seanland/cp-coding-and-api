@@ -17,6 +17,20 @@ nav_order: 3
 {: toc}
 </details>
 
+## Telegram
+
+| Project Description | Requirements | Repository |
+| ------------------- | :--------: | :----------: |
+| Using telegram to send Check Point mgmt api commands | Telegram, Python, Mgmt R80.30+ |[GitHub](https://github.com/Seanland/telegram-to-mgmt-api) |
+
+<!-- ### telegram-to-mgmt-api
+Using telegram to send Check Point mgmt api commands.
+
+Written in Python. _[repository](https://github.com/Seanland/telegram-to-mgmt-api)_ -->
+
+
+
+
 ## Under Construction.
 
 If you would like to contribute, please do one of the following:
