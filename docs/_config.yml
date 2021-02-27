@@ -26,10 +26,11 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://seanland.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  seanland
+github_owner: Sean Clarke
 
 remote_theme: seanland/just-the-docs
 
-footer_content: "Copyright &copy; Sean Clarke."
+footer_content: "Copyright &copy; "
 
 plugins:
   - jekyll-feed
