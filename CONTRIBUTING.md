@@ -4,7 +4,7 @@
 
 Not sure what to do and have some information to share?
 
-Simply place the content in a [new issue](https://github.com/{{ site.github_username }}/cp-coding-and-api/issues/new/choose).  Someone will add it!
+Simply place the content in a [new issue](https://github.com/seanland/cp-coding-and-api/issues/new/choose).  Someone will add it!
 
 ## Submit a Pull Request
 
